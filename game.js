@@ -4,7 +4,7 @@ let winnerG = document.getElementById("winner")
 let newGame = document.getElementById("newgame")
 let resetGame = document.getElementById("reset")
 
-
+alert("hello NEw COmmer")
 
 let turnO = true;
 
